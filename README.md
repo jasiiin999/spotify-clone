@@ -1,5 +1,6 @@
 # spotify-clone
 ====================================
+
 #Features
 - Responsive ui
 
@@ -11,6 +12,6 @@
 - work in progress. Very soon.
 
   
-Author: Aftab Alam
-Credit: Sharadha Khapra (Apna College)
-Thanks a lot mam to guide.
+-Author: Aftab Alam
+-Credit: Sharadha Khapra (Apna College)
+-Thanks a lot mam to guide.
