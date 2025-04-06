@@ -11,7 +11,7 @@
 #Functionality
 - work in progress. Very soon.
 
-  #Main
+#Main
 - Author: Aftab Alam
 - Credit: Sharadha Khapra (Apna College)
 - Thanks a lot mam to guide.
