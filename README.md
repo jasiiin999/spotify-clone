@@ -3,15 +3,16 @@
 
 #Features
 - Responsive ui
+- sticky-nav
 
 #Language used
-- HTML
-- CSS
+- HTML 
+- CSS (Vanila)
 
 #Functionality
 - work in progress. Very soon.
 
 #Main
 - Author: Aftab Alam
-- Credit: Sharadha Khapra (Apna College)
+- Credit: Shradha Khapra (Apna College)
 - Thanks a lot mam to guide.
