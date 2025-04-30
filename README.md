@@ -35,9 +35,29 @@ A responsive, visually appealing **Spotify Clone** built using **HTML** and **CS
 
 ## 📁 File Structure
 
-├── index.html # Main HTML file
-├── style.css # Styling and layout
-├── assets/ # Icons, images, and logos
+spotify-clone/
+├── index.html              # Main HTML structure
+├── style.css               # Styling (layout, responsiveness, theming)
+├── assets/                 # Folder containing images and icons
+│   ├── logo.png
+│   ├── card1img.jpeg
+│   ├── card2img.jpeg
+│   ├── card3img.jpeg
+│   ├── card4img.jpeg
+│   ├── card5img.jpeg
+│   ├── card6img.jpeg
+│   ├── player_icon1.png
+│   ├── player_icon2.png
+│   ├── player_icon3.png
+│   ├── player_icon4.png
+│   ├── player_icon5.png
+│   ├── p-song.jpg
+│   ├── library_icon.png
+│   ├── forward_icon.png
+│   ├── backward_icon.png
+│   ├── pip.png
+│   └── rotate.png
+
 
 Open index.html in any modern web browser.
 
@@ -47,9 +67,14 @@ Open index.html in any modern web browser.
 ## 📸 Screenshots
 
 - Large Screen
+
+
 <img width="948" alt="Screenshot (15)" src="https://github.com/user-attachments/assets/502a9c10-9dd3-4ad2-8934-b922efead40a" />
 
 - Mobile View
+
+
+
 <img width="193" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/72e7ba2d-0d29-428b-b790-0783f6d4eb1d" />
 
 ---
