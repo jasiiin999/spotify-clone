@@ -34,7 +34,7 @@ A responsive, visually appealing **Spotify Clone** built using **HTML** and **CS
 ---
 
 ## 📁 File Structure
-
+```
 spotify-clone/
 ├── index.html              # Main HTML structure
 ├── style.css               # Styling (layout, responsiveness, theming)
@@ -58,6 +58,7 @@ spotify-clone/
 │   ├── pip.png
 │   └── rotate.png
 
+```
 
 Open index.html in any modern web browser.
 
