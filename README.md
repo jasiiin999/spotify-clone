@@ -6,7 +6,7 @@ A responsive, visually appealing **Spotify Clone** built using **HTML** and **CS
 
 ## 🌐 Live Preview (Optional)
 
-👉 [Click here to view live]([https://jasiiin999.github.io/spotify-clone/](https://aftabalam999.github.io/spotify-clone/))  
+👉 [Click here to view live](https://spotify-clone-aftab.vercel.app/))  
 
 ---
 
